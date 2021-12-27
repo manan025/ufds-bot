@@ -11,7 +11,7 @@ async execute(interaction) {
         const Embed = new MessageEmbed()
                 .setColor('#ed7c31')
                 .setTitle('🍭 Commands:')
-                .setDescription(`**Code can be found on [Github](https://github.com/GrimZZZ-404/UFDSbot)**`)
+                .setDescription(`**Code can be found on [Github](https://github.com/GrimZZZ-404/ufds-bot)**`)
                 .addFields(
                 { name: '/help', value: 'Shows this message.', inline: false },
                 { name: '/announce', value: '**[Admin]** Creates an Embed.', inline: false },
